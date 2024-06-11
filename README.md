@@ -4,7 +4,7 @@
 **--Before going further look first look for the architecture flow of my small project of 1st slide.**
 
 
----------------------------------------------------------------------------------***Key Features and Achievements:***------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------***Key Features and Achievements:***-----------------------------------------
 
 🛠️ Node.js Application Development:
 Developed a Node.js application to display basic employee information.
