@@ -52,7 +52,7 @@ This project not only reinforced my technical expertise in containerizing applic
      - **Now___follow the given files for better understanding with the step -by step 
         representaion flow-----click the given link to explorr thinks:------**
 
-       -  [now- lets **CLICK➡️HERE** to go through with our dockeridsed node.js application ]()
+       -  [now- lets **CLICK➡️HERE** to go through with our dockeridsed node.js application ](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/blob/main/basic_npdejs_project.md)
 
 
   
