@@ -56,7 +56,9 @@ noe here is the interface of our project where we simple written there some empl
 
 
        now creating container with docoker desktop:-
-        - ![Screenshot 2024-06-08 143049](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/b3005fd6-5163-48f9-8b48-8f730ad6cc87)
+         - here we assigned the host port as 3000:3000 u can also assign here 0 then constainer will be select randomly the localhost server it used when u have multiiple server running in ur specific host port 
+           localhost server 
+           - ![Screenshot 2024-06-08 143049](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/b3005fd6-5163-48f9-8b48-8f730ad6cc87)
       
        now after running with docker desktop running conatainer :
       - ![Screenshot 2024-06-08 143145](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/e6916d6e-ed89-4db9-b929-db3afd0510f8)
