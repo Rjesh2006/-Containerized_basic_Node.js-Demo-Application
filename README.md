@@ -1,7 +1,7 @@
 # Containerized_basic_Node.js-Demo-Application::_⬇️.
 
 
-**--Before going further look first look for the architecture flow of my small project of 1st slide.**
+- **Before going further look first look for the architecture flow of my small project of 1st slide.**
 
 
 ---------------------------------------------------------------------------------***Key Features and Achievements:***-----------------------------------------
