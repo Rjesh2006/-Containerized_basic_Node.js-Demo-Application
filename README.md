@@ -46,7 +46,7 @@ Technical Skills Demonstrated:
 Project Impact:--
 This project not only reinforced my technical expertise in containerizing applications but also improved the efficiency and scalability of the development process. By utilizing Docker, I ensured that the application is portable, easy to deploy, and maintainable, providing a solid foundation for future enhancements and scalability.
 
-  - ![Screenshot 2024-06-10 113912](https://github.com/cipherhubhh/prb/assets/169588964/a5024e22-37bf-4a5a-ac05-52fc831139b1)
+   - ![Screenshot 2024-06-10 113912](https://github.com/cipherhubhh/prb/assets/169588964/a5024e22-37bf-4a5a-ac05-52fc831139b1)
 
     
     - **Now___follow the given files for better understanding with the step -by step 
