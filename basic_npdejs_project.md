@@ -101,13 +101,10 @@ then after the container establised you have to run app  by this commands -
 ```
 node run dev 
 ```
-then u will see:-  
-  - ![Screenshot 2024-06-09 161615](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/1a3a4458-203e-4d7c-b391-23c97b59ea5d)
-
+- then u will see:-  
   - here the green line inside he docker terminal represents as update in application:-
-   - ![Screenshot 2024-06-09 161638](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/60b89d8a-9bf2-44ef-ac45-7998e165be00)
 
-now here is the final view where u can better iunderstand the update in the node.js project app :- 
+   - now here is the final view where u can better iunderstand the update in the node.js project app :- 
    - ![Screenshot 2024-06-09 192745](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/2359ff55-3140-4670-ae6d-63d3404310e3)
 
      
