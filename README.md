@@ -49,10 +49,10 @@ This project not only reinforced my technical expertise in containerizing applic
   - ![Screenshot 2024-06-10 113912](https://github.com/cipherhubhh/prb/assets/169588964/a5024e22-37bf-4a5a-ac05-52fc831139b1)
 
     
-    -**Now___follow the given files for better understanding with the step -by step 
+    - **Now___follow the given files for better understanding with the step -by step 
         representaion flow-----click the given link to explorr thinks:------**
 
-      -  [now- lets **CLICK➡️HERE** to go through with our dockeridsed node.js application ]()
+       -  [now- lets **CLICK➡️HERE** to go through with our dockeridsed node.js application ]()
 
 
   
