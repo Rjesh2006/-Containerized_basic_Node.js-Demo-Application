@@ -1,4 +1,4 @@
-- First pulled the node.js image from Docker swarm u can pulled it from cli or directly from 
+- First pulled the node.js image from Docker hub u can pulled it from cli or directly from 
    docker desktop⬇️
 
 -    ![Screenshot 2024-06-08 130209](https://github.com/Rjesh2006/-Containerized_basic_Node.js-Demo-Application/assets/143868643/52a152bd-d402-4306-8403-7253e7b50f99)
